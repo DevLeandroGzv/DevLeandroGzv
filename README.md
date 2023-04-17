@@ -12,7 +12,7 @@
  
 - 🔭 I am currently working on appointments for patients
  
-- 🌱 I am currently learning Pythom and a bit of Rust 
+- 🌱 I am currently learning Python and a bit of Rust 
  
 - 👯 I am looking to collaborate on WPOSS and Freelancer
  
