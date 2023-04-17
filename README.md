@@ -10,13 +10,13 @@
 <p align="left"> <a href="https://twitter.com/enMonster1 target="blank"><img src="https://img.shields.io/twitter/follow/enMonster1?logo=twitter&style=for-the-badge" alt="enMonster" /></a> </p> 
  
  
-- 🔭 I am currently working on Poner proyecto 
+- 🔭 I am currently working on appointments for patients
  
-- 🌱 I am currently learning Swift and a bit of DevOps 
+- 🌱 I am currently learning Pythom and a bit of Rust 
  
-- 👯 I am looking to collaborate on Poner proyecto grupal 
+- 👯 I am looking to collaborate on WPOSS and Freelancer
  
-- 👨‍💻 All of my projects are available at http//:ponerportafolio 
+- 👨‍💻 All of my projects are available at http//: 
  
 - 💬 Ask me about Android development, Kotlin, Java, Python, OpenCV a bit of Rust 
  
