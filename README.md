@@ -22,7 +22,7 @@
  
 - 📫 How to reach me yepeto1321@gmail.com
  
-- 📄 Know about my experiences poner experiencia en proyectos 
+- 📄 Know about my experiences freelancer con javascript/react, desarrollador en WPOSS de aplicaciones moviles
  
 - ⚡ Fun fact poner cosas que me gusten que realizo fuera de la monotonia 
  
