@@ -26,82 +26,16 @@
  
 - ⚡ Fun fact poner cosas que me gusten que realizo fuera de la monotonia 
  
-<style> 
-    .rainbow{ 
-        width: 40px; 
-        height: 40px; 
-        margin: 2.5px; 
-        padding: 10px 6px 0px 6px; 
-        justify-content: center; 
-        align-items: center; 
-        border-radius: 10px; 
-        backdrop-filter: blur(5px); 
-        -webkit-backdrop-filter: blur(5px); 
-        overflow: hidden; 
-    } 
-    .rainbow::before{ 
-        content: ""; 
-        width: 150%; 
-        height: 150%; 
-        position: absolute; 
-        background: conic-gradient( 
-            #fd004c, 
-            #fe9000, 
-            #fff020, 
-            #3edf4b, 
-            #3363ff, 
-            #b102b7, 
-            #fd004c 
-        ); 
-        left: -25%; 
-        top: -25%; 
-        animation: spin 1.5s infinite linear; 
-        z-index:-2; 
-    } 
- @keyframes spin { 
-       100%{ 
-           transform: rotate(-360deg); 
-       } 
-   } 
-    .rainbow::after{ 
-        content: ""; 
-        z-index:-1; 
-        width: 93%; 
-        height: 93%; 
-        position: absolute; 
-        background-color: #1c1b29; 
-        border-radius: 10px; 
-        left: 3.5%; 
-        top: 3.5%; 
-        display: grid; 
-        place-items: center; 
-    } 
-    section{ 
-        display: flex; 
-    } 
- 
-    .inblack{ 
-        background: conic-gradient( 
-            #fd004c, 
-            #fe9000, 
-            #fff020, 
-            #3edf4b, 
-            #3363ff, 
-            #b102b7, 
-            #fd004c 
-        ); 
-        border-radius: 20%; 
-    } 
-</style> 
+
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
 <section> 
-<div class="rainbow"> 
-<a href="https://twitter.com/enMonster1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enMonster11" height="30" width="40"/></a></div> 
-<div class="rainbow"> 
-<a href="https://www.linkedin.com/in/leandro-gonzalez-vergel-b8b585139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-gonzalez-vergel-b8b585139" height="30" width="40" /></a></div> 
-<div class="rainbow"> 
-<a href="https://instagram.com/lea_verg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lea_verg" height="30" width="40" /></a></div> 
-<div class="rainbow"> 
-<a href="https://medium.com/@LeandroGzv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Leandrogzv" height="30" width="40" /></a></div> 
-<div
+<div class="rainbow" style="padding:5px"> 
+<a href="https://twitter.com/enMonster1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enMonster11" height="30" width="40"/></a> <p>EnMonster1</p>
+
+<a href="https://www.linkedin.com/in/leandro-gonzalez-vergel-b8b585139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-gonzalez-vergel-b8b585139" height="30" width="40" /></a><p>leandro-gonzalez-vergel-b8b585139</p>
+
+<a href="https://instagram.com/lea_verg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lea_verg" height="30" width="40" /></a><p>lea_verg</p>
+
+<a href="https://medium.com/@yepeto1321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yepeto1321" height="30" width="40" /></a><p>@yepeto1321</p>
+</div>
